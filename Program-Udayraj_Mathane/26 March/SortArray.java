@@ -1,0 +1,1 @@
+// Sorting first half of array in Ascending order and second half in Descending order
